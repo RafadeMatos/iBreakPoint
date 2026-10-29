@@ -342,4 +342,5 @@ Ao relatar um problema, inclua, quando possível:
 
 ## Licença
 
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
